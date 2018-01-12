@@ -1,0 +1,15 @@
+{
+  "name": "ex03",
+  "version": "0.0.1",
+  "description": "server exo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exo",
+    "saucisse"
+  ],
+  "author": "Lightbolt",
+  "license": "MIT"
+}
